@@ -8,7 +8,6 @@ import { Commerce as CommercesTableItem } from '../commerces/commerce';
 
 // TODO: replace this with real data from your application
 const EXAMPLE_DATA: CommercesTableItem[] = [
-  {id: 1, product_name: 'Hydrogen'},
 ];
 
 
